@@ -1,0 +1,9 @@
+{
+  "name": "P02.CustomArray",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
